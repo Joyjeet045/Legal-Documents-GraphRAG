@@ -1,6 +1,19 @@
 # Legal IT Law Q&A System: Knowledge Graphs & LLMs
 
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200&h=400&fit=crop&q=80" alt="AI Knowledge Graph Banner" width="100%"/>
+</div>
+
 A sophisticated question-answering system that demonstrates the power of combining **Knowledge Graphs**, **Retrieval-Augmented Generation (RAG)**, and **Large Language Models (LLMs)** for legal document analysis and retrieval. This system was built using **Indonesian IT Law** as a comprehensive example to showcase how modern AI techniques can make complex legal frameworks more accessible and navigable.
+
+<div align="center">
+  
+  ![Knowledge Graph](https://img.shields.io/badge/Knowledge%20Graph-Enabled-blue?style=for-the-badge&logo=graphql)
+  ![RAG](https://img.shields.io/badge/RAG-Powered-purple?style=for-the-badge&logo=openai)
+  ![LLM](https://img.shields.io/badge/LLM-Integrated-green?style=for-the-badge&logo=artificial-intelligence)
+  ![ArangoDB](https://img.shields.io/badge/ArangoDB-Database-orange?style=for-the-badge&logo=arangodb)
+  
+</div>
 
 <br>
 

@@ -1,0 +1,7 @@
+.env
+.idea
+.venv
+.gradio
+__pycache__
+installation
+documentation
